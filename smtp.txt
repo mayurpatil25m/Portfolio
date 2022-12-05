@@ -1,0 +1,6 @@
+SMTP
+
+username- mayurpatil6777@gmail.com
+pass -1446EF43EF230445DDE1C1FBBE3C011D89DE
+server- smtp.elasticemail.com
+port- 2525
